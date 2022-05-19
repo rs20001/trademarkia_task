@@ -11,10 +11,13 @@
 ![](https://raw.githubusercontent.com/rs20001/trademarkia_task/master/usersdb.png)
 
 - `usernamequery` endpoint
+<br>
 ![](https://raw.githubusercontent.com/rs20001/trademarkia_task/master/usernamequery.png)
 
 - `nearbyusers` endpoint
+<br>
 ![](https://raw.githubusercontent.com/rs20001/trademarkia_task/master/nearbyusers.png)
 
 - `matches` endpoint
+<br>
 ![](https://raw.githubusercontent.com/rs20001/trademarkia_task/master/matches.png)
