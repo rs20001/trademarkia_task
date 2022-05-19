@@ -236,10 +236,10 @@ func main() {
 	if err != nil {
 		panic("failed to connect database")
 	}
-	db.AutoMigrate(&User{})
-	db.AutoMigrate(&Likes{})
+	// db.AutoMigrate(&User{})
+	// db.AutoMigrate(&Likes{})
 
-	createAndPopulate(db)
+	// createAndPopulate(db)
 
 	gdb = db
 
